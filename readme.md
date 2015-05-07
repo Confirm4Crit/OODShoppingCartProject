@@ -24,3 +24,11 @@ Seller side update and delete does not show update in table immediately but if y
 In order to compile Shopping cart system application, you need to add the ojdbc6.jar to the libraries in your IDE. The jar is downloadable here https://www.dropbox.com/s/dx9rt5vyc3mayhl/ojdbc6.jar?dl=0
 
 ![alt tag](https://raw.githubusercontent.com/Confirm4Crit/OODShoppingCartProject/master/pictures/cartUI.PNG)
+![alt tag](https://raw.githubusercontent.com/Confirm4Crit/OODShoppingCartProject/master/pictures/buyerUI.PNG)
+![alt tag](https://raw.githubusercontent.com/Confirm4Crit/OODShoppingCartProject/master/pictures/checkOut.PNG)
+![alt tag](https://raw.githubusercontent.com/Confirm4Crit/OODShoppingCartProject/master/pictures/loginUI.PNG)
+![alt tag](https://raw.githubusercontent.com/Confirm4Crit/OODShoppingCartProject/master/pictures/newSeller.PNG)
+![alt tag](https://raw.githubusercontent.com/Confirm4Crit/OODShoppingCartProject/master/pictures/orderInvoice.PNG)
+![alt tag](https://raw.githubusercontent.com/Confirm4Crit/OODShoppingCartProject/master/pictures/revReport.PNG)
+![alt tag](https://raw.githubusercontent.com/Confirm4Crit/OODShoppingCartProject/master/pictures/sellerUI.PNG)
+![alt tag](https://raw.githubusercontent.com/Confirm4Crit/OODShoppingCartProject/master/pictures/bundleUI.PNG)
