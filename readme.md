@@ -1,3 +1,7 @@
+UML Documentation can be found here: https://github.com/Confirm4Crit/OODShoppingCartProject/blob/master/docs/Shopping%20Cart%20System_final%20Report.pdf
+
+
+
 Opening the program is though project\cop4331\prj\dist\prj.jar
 
 This system stored data on fau oracle server.
@@ -21,7 +25,6 @@ Known bugs: QTY for buyer side cannot be empty, no error handling prompt.
 Seller side update and delete does not show update in table immediately but if you return to that page again we can see the updates and deletes. Adding item immediately sets value in the table.
 
 
-In order to compile Shopping cart system application, you need to add the ojdbc6.jar to the libraries in your IDE. The jar is downloadable here https://www.dropbox.com/s/dx9rt5vyc3mayhl/ojdbc6.jar?dl=0
 
 ![alt tag](https://raw.githubusercontent.com/Confirm4Crit/OODShoppingCartProject/master/pictures/cartUI.PNG)
 ![alt tag](https://raw.githubusercontent.com/Confirm4Crit/OODShoppingCartProject/master/pictures/buyerUI.PNG)
